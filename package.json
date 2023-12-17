@@ -1,0 +1,23 @@
+{
+  "name": "npm-canvas-grid",
+  "version": "0.0.1",
+  "description": "A package for creating grids in html canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EemiSalonen/canvas-grid.git"
+  },
+  "keywords": [
+    "canvas",
+    "grid"
+  ],
+  "author": "Eemi Salonen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EemiSalonen/canvas-grid/issues"
+  },
+  "homepage": "https://github.com/EemiSalonen/canvas-grid#readme"
+}
